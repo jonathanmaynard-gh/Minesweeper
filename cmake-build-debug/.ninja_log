@@ -1,0 +1,12 @@
+# ninja log v6
+9	883	7551343117446186	CMakeFiles/Project3.dir/main.cpp.obj	971581d7c5a9b83e
+932	1205	7551345837849576	Project3.exe	756ee6523c644e43
+2	520	7550371544696744	build.ninja	bf81eba64bdd4cc8
+18	982	7551343117539438	CMakeFiles/Project3.dir/welcome_window.cpp.obj	724a72e321cf9f9c
+47	1196	7551343117824448	CMakeFiles/Project3.dir/leaderboard.cpp.obj	76eebadb13b786b3
+37	740	7551343117733290	CMakeFiles/Project3.dir/minesweeper_logic.cpp.obj	7166d4f95795f9c1
+4	21	7551343114967554	clean	a51880d955d9781a
+24	796	7551343117598792	CMakeFiles/Project3.dir/config_parser.cpp.obj	ef339ed4079b1286
+37	931	7551345828908399	CMakeFiles/Project3.dir/game_window.cpp.obj	e09c47217f4b5846
+7	777	7551348508638491	CMakeFiles/Project3.dir/game_window.cpp.obj	e09c47217f4b5846
+779	993	7551348516351554	Project3.exe	756ee6523c644e43
